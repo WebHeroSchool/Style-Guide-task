@@ -1,3 +1,5 @@
+![js](https://s3.tproger.ru/uploads/2017/06/javascriptmini2.png)
+___
 #  JavaScript Style Guide
 ___
 
